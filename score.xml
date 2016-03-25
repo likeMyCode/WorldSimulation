@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_25" class="java.beans.XMLDecoder">
+ <object class="worldsimulation.GameScore">
+  <void property="citizensOverall">
+   <int>42</int>
+  </void>
+  <void property="finishTime">
+   <long>645</long>
+  </void>
+  <void property="playerName">
+   <string>Magda</string>
+  </void>
+  <void property="superherosAlive">
+   <int>6</int>
+  </void>
+  <void property="villainsOverall">
+   <int>12</int>
+  </void>
+ </object>
+ <object class="worldsimulation.GameScore">
+  <void property="citizensOverall">
+   <int>42</int>
+  </void>
+  <void property="finishTime">
+   <long>484</long>
+  </void>
+  <void property="playerName">
+   <string>Kasia</string>
+  </void>
+  <void property="superherosAlive">
+   <int>6</int>
+  </void>
+  <void property="villainsOverall">
+   <int>12</int>
+  </void>
+ </object>
+ <object class="worldsimulation.GameScore">
+  <void property="citizensOverall">
+   <int>42</int>
+  </void>
+  <void property="finishTime">
+   <long>452</long>
+  </void>
+  <void property="playerName">
+   <string>Mojżesz</string>
+  </void>
+  <void property="superherosAlive">
+   <int>6</int>
+  </void>
+  <void property="villainsOverall">
+   <int>12</int>
+  </void>
+ </object>
+ <object class="worldsimulation.GameScore">
+  <void property="citizensOverall">
+   <int>49</int>
+  </void>
+  <void property="finishTime">
+   <long>442</long>
+  </void>
+  <void property="playerName">
+   <string>Patryk</string>
+  </void>
+  <void property="superherosAlive">
+   <int>7</int>
+  </void>
+  <void property="villainsOverall">
+   <int>15</int>
+  </void>
+ </object>
+ <object class="worldsimulation.GameScore">
+  <void property="citizensOverall">
+   <int>42</int>
+  </void>
+  <void property="finishTime">
+   <long>231</long>
+  </void>
+  <void property="playerName">
+   <string>Tomek</string>
+  </void>
+  <void property="superherosAlive">
+   <int>6</int>
+  </void>
+  <void property="villainsOverall">
+   <int>12</int>
+  </void>
+ </object>
+</java>
